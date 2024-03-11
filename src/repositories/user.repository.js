@@ -1,4 +1,4 @@
-import { Database } from "../database.js";
+import { Database } from "../misc/database.js";
 import { User } from "../entities/user.model.js";
 
 export class UserRepository {

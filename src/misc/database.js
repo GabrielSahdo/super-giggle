@@ -1,5 +1,5 @@
 import { Sequelize } from "sequelize";
-import Models from "./entities/index.js";
+import Models from "../entities/index.js";
 
 export class Database {
     constructor({ dbFilePath }) {
